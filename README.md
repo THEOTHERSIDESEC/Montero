@@ -7,13 +7,19 @@
 
 ### Lil Nas X Nike Shoes
 
-Stand a chance to win a pair of Lil Nas X pair of shoes
+Stand a chance to win a pair of Lil Nas X Satan shoes
   
-There are 5 pairs left be quick 😱
+ 5 pairs left be quick 😱
 
 <img src="Satan.jpg">
 
-![alt text](https://github.com/Hider5/Malicious/blob/master/image/ss.jpg)
+Also Stand a chance to win a pair of MSCHF Jesus shoes
+  
+<img src="Jesus.jpg">
+
+BE QUICK 
+
+7 pairs left😱 
 
 ### Installation For Termux
 ```
