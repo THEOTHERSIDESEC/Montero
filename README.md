@@ -21,7 +21,6 @@ BE QUICK
 
 7 pairs left😱 
 
-<img src="lilnasx.mp4">
 
 ### Installation For Termux
 ```
