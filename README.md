@@ -27,6 +27,7 @@ BE QUICK
 $termux-setup-storage
 $cd /sdcard
 $pkg install git
+$pkg install figlet
 $pkg install python2
 $pkg install ruby
 $gem install lolcat
@@ -50,3 +51,4 @@ $cd Montero
 $pip2 install -r requirements.txt
 $python2 montero.py
 ```
+In the linux part install also figlet 
