@@ -9,7 +9,7 @@
 
 Stand a chance to win a pair of Lil Nas X Satan shoes
   
- 2 pairs left be quick 😱
+ 0 pairs left be quick 🥲
 
 <img src="Satan.jpg">
 
@@ -19,7 +19,7 @@ Also Stand a chance to win a pair of MSCHF Jesus shoes
 
 BE QUICK 
 
-2 pairs left😱 
+1 pairs left😱 
 
 
 ### Installation For Termux
